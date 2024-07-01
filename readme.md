@@ -22,7 +22,7 @@ This project is a Conversational Chatbot built using the Facebook/BlenderBot-400
 1. **Clone the repository:**
 
     \`\`\`bash
-    git clone https://github.com/yourusername/conversational-chatbot.git
+    git clone https://github.com/Deadshot1611/conversational-chatbot.git
     cd conversational-chatbot
     \`\`\`
 
@@ -40,7 +40,7 @@ This project is a Conversational Chatbot built using the Facebook/BlenderBot-400
 
 4. **Access the Gradio interface:**
 
-    The Gradio interface will be available at `[http://localhost:8000](https://deadshot2003-fastapi-gradio.hf.space/gradio/)`.
+    The Gradio interface will be available at `(https://deadshot2003-fastapi-gradio.hf.space/gradio/)`.
 
 ## Usage
 
@@ -50,7 +50,7 @@ This project is a Conversational Chatbot built using the Facebook/BlenderBot-400
 
 ## Deployment
 
-The bot is deployed on Hugging Face Spaces. You can access it [here]([https://huggingface.co/spaces/yourusername/conversational-chatbot](https://deadshot2003-fastapi-gradio.hf.space/gradio/)).
+The bot is deployed on Hugging Face Spaces. You can access it [here](https://deadshot2003-fastapi-gradio.hf.space/gradio/).
 
 ## Contributing
 
